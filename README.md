@@ -9,4 +9,3 @@ the first version of the site in an evening. I continued to iterate on it for a 
 subsequently built two other gaming sites (strategywiki.org, abxy.org).
 
 Screenshots from Internet Archive (though I have the software somewhere.)
-
